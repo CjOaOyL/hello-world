@@ -1,0 +1,171 @@
+,file_number,filename,object,object_score,object_bounds,time,group,range_start
+0,1,C:\Users\jaqua\Downloads\test\DSCF0001.JPG,Person,0.8697438836097717,"normalized_vertices {
+  x: 0.12490954250097275
+  y: 0.32168808579444885
+}
+normalized_vertices {
+  x: 0.23729397356510162
+  y: 0.32168808579444885
+}
+normalized_vertices {
+  x: 0.23729397356510162
+  y: 0.6326701641082764
+}
+normalized_vertices {
+  x: 0.12490954250097275
+  y: 0.6326701641082764
+}
+",2020-04-18 16:18:37,1,2020-04-18 16:18:37
+1,1,C:\Users\jaqua\Downloads\test\DSCF0001.JPG,Outerwear,0.5155963897705078,"normalized_vertices {
+  x: 0.14353175461292267
+  y: 0.3519379794597626
+}
+normalized_vertices {
+  x: 0.23884129524230957
+  y: 0.3519379794597626
+}
+normalized_vertices {
+  x: 0.23884129524230957
+  y: 0.5251803994178772
+}
+normalized_vertices {
+  x: 0.14353175461292267
+  y: 0.5251803994178772
+}
+",2020-04-18 16:18:37,1,2020-04-18 16:18:37
+2,2,C:\Users\jaqua\Downloads\test\DSCF0002.JPG,Person,0.8853257298469543,"normalized_vertices {
+  x: 0.17686575651168823
+  y: 0.3320751488208771
+}
+normalized_vertices {
+  x: 0.2690218389034271
+  y: 0.3320751488208771
+}
+normalized_vertices {
+  x: 0.2690218389034271
+  y: 0.5720259547233582
+}
+normalized_vertices {
+  x: 0.17686575651168823
+  y: 0.5720259547233582
+}
+",2020-04-18 16:18:37,1,2020-04-18 16:18:37
+3,2,C:\Users\jaqua\Downloads\test\DSCF0002.JPG,Outerwear,0.8378696441650391,"normalized_vertices {
+  x: 0.17834849655628204
+  y: 0.35432687401771545
+}
+normalized_vertices {
+  x: 0.26888659596443176
+  y: 0.35432687401771545
+}
+normalized_vertices {
+  x: 0.26888659596443176
+  y: 0.5337639451026917
+}
+normalized_vertices {
+  x: 0.17834849655628204
+  y: 0.5337639451026917
+}
+",2020-04-18 16:18:37,1,2020-04-18 16:18:37
+4,2,C:\Users\jaqua\Downloads\test\DSCF0002.JPG,Jacket,0.6186130046844482,"normalized_vertices {
+  x: 0.17804384231567383
+  y: 0.35383543372154236
+}
+normalized_vertices {
+  x: 0.2684391140937805
+  y: 0.35383543372154236
+}
+normalized_vertices {
+  x: 0.2684391140937805
+  y: 0.5171019434928894
+}
+normalized_vertices {
+  x: 0.17804384231567383
+  y: 0.5171019434928894
+}
+",2020-04-18 16:18:37,1,2020-04-18 16:18:37
+5,2,C:\Users\jaqua\Downloads\test\DSCF0002.JPG,Person,0.5654459595680237,"normalized_vertices {
+  x: 0.17170904576778412
+  y: 0.3165839612483978
+}
+normalized_vertices {
+  x: 0.2646388113498688
+  y: 0.3165839612483978
+}
+normalized_vertices {
+  x: 0.2646388113498688
+  y: 0.6430516839027405
+}
+normalized_vertices {
+  x: 0.17170904576778412
+  y: 0.6430516839027405
+}
+",2020-04-18 16:18:37,1,2020-04-18 16:18:37
+6,3,C:\Users\jaqua\Downloads\test\DSCF0003.JPG,Person,0.9261828660964966,"normalized_vertices {
+  x: 0.18942974507808685
+  y: 0.33058449625968933
+}
+normalized_vertices {
+  x: 0.2762811481952667
+  y: 0.33058449625968933
+}
+normalized_vertices {
+  x: 0.2762811481952667
+  y: 0.6109563708305359
+}
+normalized_vertices {
+  x: 0.18942974507808685
+  y: 0.6109563708305359
+}
+",2020-04-18 16:18:37,1,2020-04-18 16:18:37
+7,3,C:\Users\jaqua\Downloads\test\DSCF0003.JPG,Outerwear,0.8307746648788452,"normalized_vertices {
+  x: 0.19096171855926514
+  y: 0.3462667763233185
+}
+normalized_vertices {
+  x: 0.27583304047584534
+  y: 0.3462667763233185
+}
+normalized_vertices {
+  x: 0.27583304047584534
+  y: 0.5701983571052551
+}
+normalized_vertices {
+  x: 0.19096171855926514
+  y: 0.5701983571052551
+}
+",2020-04-18 16:18:37,1,2020-04-18 16:18:37
+8,3,C:\Users\jaqua\Downloads\test\DSCF0003.JPG,Jacket,0.6794552803039551,"normalized_vertices {
+  x: 0.1907321661710739
+  y: 0.349965363740921
+}
+normalized_vertices {
+  x: 0.274262398481369
+  y: 0.349965363740921
+}
+normalized_vertices {
+  x: 0.274262398481369
+  y: 0.520669162273407
+}
+normalized_vertices {
+  x: 0.1907321661710739
+  y: 0.520669162273407
+}
+",2020-04-18 16:18:37,1,2020-04-18 16:18:37
+9,4,C:\Users\jaqua\Downloads\test\DSCF0004.JPG,Person,0.6840404868125916,"normalized_vertices {
+  x: 0.5629016160964966
+  y: 0.4198784828186035
+}
+normalized_vertices {
+  x: 0.6253018975257874
+  y: 0.4198784828186035
+}
+normalized_vertices {
+  x: 0.6253018975257874
+  y: 0.5729033946990967
+}
+normalized_vertices {
+  x: 0.5629016160964966
+  y: 0.5729033946990967
+}
+",2020-04-18 16:18:45,1,2020-04-18 16:18:37
