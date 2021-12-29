@@ -27,7 +27,7 @@ import matplotlib
 # 
 #     return image2
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS']= 'cloudvisionone-322022-c838d7c9b161.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS']= r'C:\Users\jaqua\Documents\cloudvisionone-322022-65a46294de5d.json'
  
 # Instantiates a client
 client = vision_v1.ImageAnnotatorClient()
